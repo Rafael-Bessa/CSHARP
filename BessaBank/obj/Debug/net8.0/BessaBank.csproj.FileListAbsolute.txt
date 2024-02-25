@@ -1,0 +1,14 @@
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\bin\Debug\net8.0\BessaBank.exe
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\bin\Debug\net8.0\BessaBank.deps.json
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\bin\Debug\net8.0\BessaBank.runtimeconfig.json
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\bin\Debug\net8.0\BessaBank.dll
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\bin\Debug\net8.0\BessaBank.pdb
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\BessaBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\BessaBank.AssemblyInfoInputs.cache
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\BessaBank.AssemblyInfo.cs
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\BessaBank.csproj.CoreCompileInputs.cache
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\BessaBank.dll
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\refint\BessaBank.dll
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\BessaBank.pdb
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\BessaBank.genruntimeconfig.cache
+C:\Users\rfzst\source\repos\BessaBank\BessaBank\obj\Debug\net8.0\ref\BessaBank.dll
